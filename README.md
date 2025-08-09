@@ -18,7 +18,7 @@ A lightweight Python tool for monitoring system performance and network health w
 
 🔔 Smart Notifications
   
-    •  Desktop alerts every 100 seconds
+    •   Desktop alerts every 100 seconds
   
     • 	Immediate alerts if CPU crosses threshold
   
