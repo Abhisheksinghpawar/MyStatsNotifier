@@ -3,6 +3,7 @@
 A lightweight Python tool for monitoring system performance and network health with smart alerts and desktop notifications.
 
 🚀 Features
+
 🖥️ System Monitoring
   • 	Real-time CPU, RAM, and Disk usage
   • 	Threshold-based alerts (e.g. CPU > 5%)
