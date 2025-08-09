@@ -30,13 +30,13 @@ A lightweight Python tool for monitoring system performance and network health w
  
     • 	Tabular display with 
   
-  • 	Icons and formatting for readability
+    • 	Icons and formatting for readability
 
 ⚙️ Modular Design
   
-  • 	Easy to extend with CLI flags, logging, or AI summaries
+    • 	Easy to extend with CLI flags, logging, or AI summaries
  
-  • 	Clean separation of logic for system, network, and alerts
+    • 	Clean separation of logic for system, network, and alerts
 
 📦 Installation
   
