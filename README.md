@@ -5,11 +5,15 @@ A lightweight Python tool for monitoring system performance and network health w
 🚀 Features
 
 🖥️ System Monitoring
+  
   • 	Real-time CPU, RAM, and Disk usage
+  
   • 	Threshold-based alerts (e.g. CPU > 5%)
 
 🌐 Network Monitoring
+  
   • 	Bandwidth stats (bytes sent/received)
+  
   • 	Ping test with latency and packet loss detection
 
 🔔 Smart Notifications
