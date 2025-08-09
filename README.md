@@ -18,17 +18,17 @@ A lightweight Python tool for monitoring system performance and network health w
 
 🔔 Smart Notifications
   
-  • Desktop alerts every 100 seconds
+    •  Desktop alerts every 100 seconds
   
-  • 	Immediate alerts if CPU crosses threshold
+    • 	Immediate alerts if CPU crosses threshold
   
-  • 	Emoji-enhanced summaries for clarity
+    • 	Emoji-enhanced summaries for clarity
 
 🎨 Terminal UI
  
-  • 	Colour-coded output using 
+    • 	Colour-coded output using 
  
-  • 	Tabular display with 
+    • 	Tabular display with 
   
   • 	Icons and formatting for readability
 
@@ -40,32 +40,32 @@ A lightweight Python tool for monitoring system performance and network health w
 
 📦 Installation
   
-  pip install psutil plyer colorama tabulate
+    pip install psutil plyer colorama tabulate
 
 ▶️ Usage
  
-  • 	Alerts every 100 seconds
+    • 	Alerts every 100 seconds
  
-  • 	Immediate alert if CPU usage exceeds 5%
+    • 	Immediate alert if CPU usage exceeds 5%
   
-  • 	Ping target:  (default)
+    • 	Ping target:  (default)
 
 📈 Future Scope
 Here’s what’s planned next:
   
-  • 	🧠 Anomaly Detection: Rolling averages and spike detection
+    • 	🧠 Anomaly Detection: Rolling averages and spike detection
  
-  • 	📊 Logging: Export stats to CSV or SQLite for trend analysis
+    • 	📊 Logging: Export stats to CSV or SQLite for trend analysis
  
-  • 	🛠️ CLI Flags: Custom interval, ping host, silent mode
+    • 	🛠️ CLI Flags: Custom interval, ping host, silent mode
  
-  • 	🔗 Webhook/Slack Alerts: Push alerts to remote dashboards
+    • 	🔗 Webhook/Slack Alerts: Push alerts to remote dashboards
  
-  • 	🧪 Process-Level Stats: Show top CPU/memory-consuming processes
+    • 	🧪 Process-Level Stats: Show top CPU/memory-consuming processes
  
-  • 	🔋 Battery & Power Monitoring: Add battery %, charging status
+    • 	🔋 Battery & Power Monitoring: Add battery %, charging status
  
-  • 	🧠 AI Summary Mode: Natural language summaries via Ollama or LLM
+    • 	🧠 AI Summary Mode: Natural language summaries via Ollama or LLM
 
 🤝 Contributing
-  Pull requests and feature suggestions are welcome! If you’ve got ideas for integrations, UI enhancements, or smarter alerting—let’s build it together.
+      Pull requests and feature suggestions are welcome! If you’ve got ideas for integrations, UI enhancements, or smarter alerting—let’s build it together.
